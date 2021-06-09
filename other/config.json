@@ -1,0 +1,184 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "search",
+      "code": 59399,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
+      "css": "user",
+      "code": 59400,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9affc98d652b86628d650ee58dbf0357",
+      "css": "basket",
+      "code": 59398,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "22cfc7af2c4f158b37317c65c92b48c2",
+      "css": "location",
+      "code": 59392,
+      "src": "elusive"
+    },
+    {
+      "uid": "jh3jpcb1t1bcm80gidkadilh080aq79h",
+      "css": "menu",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "d870630ff8f81e6de3958ecaeac532f2",
+      "css": "left-open",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a2a74f5e7b7d9ba054897d8c795a326a",
+      "css": "list-bullet",
+      "code": 61642,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4109c474ff99cad28fd5a2c38af2ec6f",
+      "css": "filter",
+      "code": 61616,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "474656633f79ea2f1dad59ff63f6bf07",
+      "css": "star",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "745f12abe1472d14f8f658de7e5aba66",
+      "css": "angle-double-left",
+      "code": 61696,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "90e0aff5c929e444038355746a952aaf",
+      "css": "shopping-basket",
+      "code": 62097,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2c452255d4fed51ef0a6ef86436a7d08",
+      "css": "percent",
+      "code": 62101,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b846892636bd74112998bb159bdddf27",
+      "css": "trello",
+      "code": 61825,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "w3nzesrlbezu6f30q7ytyq919p6gdlb6",
+      "css": "home",
+      "code": 59396,
+      "src": "typicons"
+    },
+    {
+      "uid": "3fe687c833fa36452029b6d57e9149bf",
+      "css": "cinema",
+      "code": 59407,
+      "src": "maki"
+    },
+    {
+      "uid": "9755f76110ae4d12ac5f9466c9152031",
+      "css": "book",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f3dc2d6d8fe9cf9ebff84dc260888cdf",
+      "css": "heart-empty",
+      "code": 59401,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d73eceadda1f594cec0536087539afbf",
+      "css": "heart",
+      "code": 59402,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "14e9aa28bf2a3531274f85194e733b71",
+      "css": "color-adjust",
+      "code": 61472,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "80451d627470ea7f977a263fdb771d7b",
+      "css": "palette",
+      "code": 59403,
+      "src": "entypo"
+    },
+    {
+      "uid": "c64623255a4a7c72436b199b05296c4f",
+      "css": "emo-happy",
+      "code": 59404,
+      "src": "fontelico"
+    },
+    {
+      "uid": "517522647a556192fbc78aa391b7b0c2",
+      "css": "cancel-circled-outline",
+      "code": 59405,
+      "src": "typicons"
+    },
+    {
+      "uid": "3327862df439988139b61814143b7a42",
+      "css": "cancel-circled",
+      "code": 59406,
+      "src": "typicons"
+    },
+    {
+      "uid": "11e664deed5b2587456a4f9c01d720b6",
+      "css": "cancel",
+      "code": 59408,
+      "src": "iconic"
+    },
+    {
+      "uid": "44e04715aecbca7f266a17d5a7863c68",
+      "css": "plus",
+      "code": 59409,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d10920db2e79c997c5e783279291970c",
+      "css": "dot-3",
+      "code": 59410,
+      "src": "entypo"
+    },
+    {
+      "uid": "107ce08c7231097c7447d8f4d059b55f",
+      "css": "ellipsis",
+      "code": 61761,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "750058837a91edae64b03d60fc7e81a7",
+      "css": "ellipsis-vert",
+      "code": 61762,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "130380e481a7defc690dfb24123a1f0c",
+      "css": "circle",
+      "code": 61713,
+      "src": "fontawesome"
+    }
+  ]
+}
